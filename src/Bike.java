@@ -58,6 +58,6 @@ public class Bike {
 	public void showFuel() {
 		fuel.consume();
 	}
-     public void change(){
+     public void changes(){
          System.out.println("Changes done");}
 }
