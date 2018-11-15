@@ -60,4 +60,10 @@ public class Bike {
 	}
      public void changes(){
          System.out.println("Changes done");}
+public void changeBike()
+        {
 }
+}
+
+
+
